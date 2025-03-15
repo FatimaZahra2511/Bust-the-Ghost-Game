@@ -1,4 +1,4 @@
-Bust the Ghost - Probabilistic AI Game
+# Bust the Ghost - Probabilistic AI Game
 ##  Overview
 **Bust the Ghost** is an interactive **grid-based AI game** where players use **probabilistic inference** to locate and capture a hidden ghost. The game employs **Bayesian reasoning** to refine the ghost's possible location based on sensor feedback.
 
@@ -47,4 +47,3 @@ Where:
 Run the following command to install dependencies:
 ```bash
 pip install pygame numpy
-
